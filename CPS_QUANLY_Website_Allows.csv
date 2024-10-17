@@ -29,11 +29,14 @@
 *.zingmp3.vn,
 *.zmdcdn.me,
 https://accounts.google.com,
+https://accounts.coccoc.com,
 https://ahamove.com,
 https://analytics.google.com,
 https://apple.com,
 https://be.com.vn,
 https://bing.com,
+https://coccoc.com,
+https://coccoc.com.vn,
 https://calendar.google.com,
 https://capnuocbenthanh.com,
 https://cellphones.com.vn,
@@ -86,3 +89,5 @@ https://www.google-analytics.com,
 https://www.googletagmanager.com,
 https://zalo.salework.net,
 https://zingmp3.vn
+
+
